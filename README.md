@@ -1,5 +1,5 @@
 # tsa2 (Time Series Analysis 2)
-This repo has is a second step (still basic level) to Time Series Analysis using Python. This notes are a continuation of the analysis presented in [tsa1](https://github.com/jnserna/tsa1). The notebook includes comments Time Series theories and basic concepts and ideas, as well as some predictive models.
+This repo has a second step (still basic level) to Time Series Analysis using Python. This notes are a continuation of the analysis presented in [tsa1](https://github.com/jnserna/tsa1). The notebook includes comments Time Series theories and basic concepts and ideas, as well as some predictive models.
 #
 Comments in Spanish.
 #
